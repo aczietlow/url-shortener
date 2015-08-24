@@ -1,0 +1,13 @@
+{
+    "name": "aczietlow/url-shortener",
+    "description": "SANDBOX. A url shortener built using silex.",
+    "authors": [
+        {
+            "name": "chris.zietlow",
+            "email": "aczietlow@gmail.com"
+        }
+    ],
+    "require": {
+        "silex/silex": "~1.3"
+    }
+}
